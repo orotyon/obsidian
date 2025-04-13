@@ -6,5 +6,6 @@
   "newFileFolderPath": "とりあえずの場所",
   "userIgnoreFilters": [
     "添付ファイル/"
-  ]
+  ],
+  "attachmentFolderPath": "添付ファイル"
 }
