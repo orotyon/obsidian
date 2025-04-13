@@ -1,3 +1,10 @@
 {
-  "defaultViewMode": "preview"
+  "defaultViewMode": "preview",
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "とりあえずの場所",
+  "userIgnoreFilters": [
+    "添付ファイル/"
+  ]
 }
